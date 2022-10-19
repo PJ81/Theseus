@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  border: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #222;
+  text-align: center;
+}
+
+canvas {
+  border-radius: 5px;
+  background: #fff;
+  margin: 0px auto;
+}
+
+#container {
+  width: 800px;
+  margin: 70px auto;
+}
+
+#movesCount, #solCount {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  float: left;
+}
+
+#solCount {
+  float: right;
+}
